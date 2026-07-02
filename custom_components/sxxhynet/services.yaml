@@ -1,0 +1,4 @@
+# 源通水务服务定义
+update_data:
+  name: 更新数据
+  description: 手动更新源通水务数据

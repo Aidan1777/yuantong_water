@@ -1,0 +1,33 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Yuantong Water",
+        "description": "Set up Yuantong Water integration",
+        "data": {
+          "water_number": "Water Number",
+          "code": "WeChat Auth Code (optional)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "invalid_auth": "Invalid authentication",
+      "unknown": "Unexpected error"
+    },
+    "abort": {
+      "already_configured": "Device is already configured"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Yuantong Water Options",
+        "data": {
+          "water_number": "Water Number",
+          "code": "WeChat Auth Code (optional)"
+        }
+      }
+    }
+  }
+}

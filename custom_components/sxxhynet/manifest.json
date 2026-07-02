@@ -1,0 +1,15 @@
+{
+  "domain": "sxxhynet",
+  "name": "源通水务",
+  "documentation": "https://github.com/xiaoshi930/xian_water",
+  "dependencies": [],
+  "codeowners": [
+    "xiaoshi930"
+  ],
+  "requirements": [
+    "aiohttp"
+  ],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "version": "1.0"
+}
