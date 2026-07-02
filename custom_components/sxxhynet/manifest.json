@@ -1,15 +1,15 @@
 {
   "domain": "sxxhynet",
   "name": "源通水务",
-  "documentation": "https://github.com/xiaoshi930/xian_water",
+  "documentation": "https://github.com/Aidan1777/yuantong_water",
   "dependencies": [],
   "codeowners": [
-    "xiaoshi930"
+    "Aidan1777"
   ],
   "requirements": [
     "aiohttp"
   ],
   "config_flow": true,
   "iot_class": "cloud_polling",
-  "version": "1.0"
+  "version": "1.0.1"
 }
